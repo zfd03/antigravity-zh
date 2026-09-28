@@ -1,4 +1,3 @@
-
 # Antigravity 简体中文界面覆盖（Linux）
 
 面向 Google Antigravity 2.17.0 的社区汉化项目。项目只提供补丁脚本和翻译表，不分发 Antigravity 安装包或任何原厂资源。
